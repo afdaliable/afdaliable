@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afdaliable" alt="afdaliable" /></a> </p>
 
-- 🔭 I’m currently working on [SAKTI](sakti.kemenkeu.go.id)
+- 🔭 I’m currently working on [SAKTI](https://sakti.kemenkeu.go.id)
 
 - 🌱 I’m currently learning **All about Apps, Devops & AI**
 
