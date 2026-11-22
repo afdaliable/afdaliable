@@ -13,7 +13,7 @@
 
 |  |  |
 |---|---|
-| 🏢 **Work** | [Canducation](https://github.com/afdaliable), and [SAKTI](https://sakti.kemenkeu.go.id) |
+| 🏢 **Work** | [SAKTI](https://sakti.kemenkeu.go.id), [MyIntress](https://myintress.kemenkeu.go.id), and [nagih.id](https://nagih.id) |
 | 🌱 **Learning** | Apps, DevOps, and AI |
 | 🏠 **Hobby** | A home server for media, automation, and side projects |
 
