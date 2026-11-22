@@ -37,6 +37,6 @@
 | | |
 |---|---|
 | **Frontend** | Angular · React · Next.js · TypeScript · Tailwind · Flutter |
-| **Backend** | Rust · Node.js · Python · Spring · Laravel |
+| **Backend** | Java · Spring Framework · Rust · Node.js · Python · Laravel |
 | **Data** | PostgreSQL · MariaDB · MySQL · Oracle · Redis |
 | **DevOps** | Linux · Docker · Kubernetes · Nginx · Grafana · Jenkins |
